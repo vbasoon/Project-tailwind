@@ -11,4 +11,9 @@
   box-sizing: border-box;
   margin: 0;
 }
+
+.wrapper {
+  max-width: 480px;
+  margin: 0 auto;
+}
 </style>
